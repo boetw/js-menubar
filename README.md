@@ -1,3 +1,3 @@
 # js-menubar
-##Menubar useing JavaScript
+##Menubar using JavaScript
 Sub menu appears and disapears on click.
